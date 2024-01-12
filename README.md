@@ -1,4 +1,4 @@
-![Long Term Agile Planning](header-image.png)
+![Long Term Agile Planning](Failing Forward.png)
 
 This session was originally delivered at Code Mash 2024.
 
